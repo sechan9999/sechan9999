@@ -1,7 +1,7 @@
 # Irresistible AI Agent Automation System
 
 AI Engineer & ML Backend Engineer  
-and especially focused on Ontology & Tenant & Micro Architecture!
+and especially focused on Micro Architecture!
 
 # PROJECTS
 
