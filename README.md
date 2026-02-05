@@ -1,7 +1,7 @@
-# Irresistible AI Agent Automation System
+# The Architect of Irresistible AI Agent System
 
-AI Engineer & ML Backend Engineer  
-and especially focused on Micro Architecture!
+Full stack AI Engineer & ML Backend Engineer  
+
 
 # PROJECTS
 
