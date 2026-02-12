@@ -22,6 +22,16 @@ Highlights: Multi-user sync | Cloud backend | Responsive design | Secure auth
     <td align="center"><b>Project Doc</b></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/sechan9999/mediaapp">Media Hub Pro</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Real--time_Streaming-FF0000?style=flat" />
+    </td>
+    <td align="center"><a href="https://github.com/sechan9999/mediaapp/blob/main/README.md">📝</a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/sechan9999/PR-Test-Generator">PR-Test-Generator</a></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -72,6 +82,16 @@ Highlights: Multi-user sync | Cloud backend | Responsive design | Secure auth
     <td align="center"><b>Title</b></td>
     <td align="center"><b>Technologies</b></td>
     <td align="center"><b>Project Doc</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/sechan9999/rxhcc_risk_adjustment">RxHCC Risk Adjustment (Diabetes)</a></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat&logo=amazonsagemaker&logoColor=white" />
+      <img src="https://img.shields.io/badge/ICD--10_Mapping-000000?style=flat" />
+      <img src="https://img.shields.io/badge/Healthcare-3498DB?style=flat" />
+    </td>
+    <td align="center"><a href="https://github.com/sechan9999/rxhcc_risk_adjustment">📝</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/sechan9999/HRpowerBI">HR Metrics Dashboard</a></td>
