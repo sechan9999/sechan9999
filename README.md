@@ -1,14 +1,10 @@
 # The Architect of Irresistible AI Agent System
 
-Full stack AI Engineer & ML Backend Engineer  
+Full stack AI & ML Engineer, data scientist, data analyst 
 
 🚀 Featured Projects
-🎨 Stable Diffusion API Server
-GPU-accelerated AI image generation platform with FastAPI, PyTorch, and automated scheduling.
-Highlights: Real-time generation | 6+ artistic styles | SQLite tracking | Swagger UI
-🛒 Smart Shopping List
-Real-time collaborative shopping app with React and Supabase.
-Highlights: Multi-user sync | Cloud backend | Responsive design | Secure auth
+RxHCC FWA(Fraud, Waste & Abuse) detection project: https://rxhcc-app.vercel.app/
+Crdit AI, Macro Pulse
 
 # PROJECTS
 
