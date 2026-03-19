@@ -4,7 +4,7 @@ Full stack AI & ML Engineer, data scientist, data analyst
 
 🚀 Featured Projects
 RxHCC FWA(Fraud, Waste & Abuse) detection project: https://rxhcc-app.vercel.app/
-Crdit AI, Macro Pulse
+Credit AI https://credit-ai-seven.vercel.app/  & Macro Pulse https://macro-pulse-xu76sksloq-uc.a.run.app/
 
 # PROJECTS
 
